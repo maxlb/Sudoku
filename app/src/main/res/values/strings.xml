@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title_activity_grille">Grille</string>
+    <string name="title_activity_sudoku">Sudoku</string>
+</resources>
